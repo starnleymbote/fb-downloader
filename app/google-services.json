@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1052867388996",
+    "firebase_url": "https://igtv-saver-54229.firebaseio.com",
+    "project_id": "igtv-saver-54229",
+    "storage_bucket": "igtv-saver-54229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052867388996:android:a2b1769f507cd8fe",
+        "android_client_info": {
+          "package_name": "com.fkapps.fbdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052867388996-n9p99n4gu8kuufu54c63j5f6nugj76i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NDl7JL2q03neQAAXxG3Ovvd-vGS-VtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
